@@ -1,4 +1,4 @@
-TinDog is a funny and inspring start-up idea.
+TinDog is a funny and inspiring start-up idea.
 
 
 I made Tindog in Angela Yu's Web Development Bootcamp with HTML5&CSS and Bootstrap 4.6.
